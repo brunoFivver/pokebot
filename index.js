@@ -80,7 +80,7 @@ var pokedex = require('pokedex'),
 const Discord = require('discord.js');
 
 const client = new Discord.Client({ disableEveryone: true });
-client.login('NzE3ODUyNzk0Mzk2MjEzMzI4.XvKOow.ICJJBDwExGi2JdKg1spHhbPYOK4');
+client.login(process.env.token);
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
 client.description = new Discord.Collection();
