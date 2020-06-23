@@ -1,0 +1,155 @@
+{
+    "Shinys": [ 
+        {
+       "name":"Grookey",
+       "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        },
+        {
+       "name":"Thwackey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/58/Thwackey_Shiny_SS.gif"
+        },
+        {
+       "name":"Rillaboom",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/53/Rillaboom_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Scorbunny",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/46/Scorbunny_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Raboot",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/b/ba/Raboot_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Cinderace",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/5f/Cinderace_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Sobble",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/a5/Sobble_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Inteleon",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/2/2a/Inteleon_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Skwovet",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/9/9c/Skwovet_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Greedent",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/0/0d/Greedent_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Rookidee",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/b/bc/Rookidee_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Corvisquire",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/79/Corvisquire_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Corviknight",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/d/d2/Corviknight_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Blipbug",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/58/Blipbug_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Dottler",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/a2/Dottler_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Orbeetle",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/8/81/Orbeetle_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Nickit",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/8/8e/Nickit_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Thievul",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/48/Thievul_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Gossifleur",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/c/cf/Gossifleur_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Eldegoss",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/36/Eldegoss_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Wooloo",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/1/1a/Wooloo_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Dubwool",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/31/Dubwool_Shiny_SS.gif"
+        } ,
+        {
+       "name":"Chewtle",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/9/98/Chewtle_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Drednaw",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/47/Drednaw_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Yamper",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/0/0a/Yamper_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Boltund",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/36/Boltund_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Rolycoly",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/f/ff/Rolycoly_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Carkol",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/b/be/Carkol_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }   ,
+        {
+       "name":"Grookey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/56/Grookey_Shiny_SS.gif"
+        }          
+    ]
+
+
+
+}

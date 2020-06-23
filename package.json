@@ -1,0 +1,33 @@
+{
+  "name": "pokebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloud-list": "^4.6.6",
+    "coinflip": "^1.0.0",
+    "crypto-random-string": "^3.2.0",
+    "discord-paginationembed": "^2.0.0",
+    "discord.js": "^12.2.0",
+    "evolutions": "^1.0.4",
+    "firebase": "^7.14.6",
+    "fs": "0.0.1-security",
+    "jimp": "^0.13.0",
+    "node-cron": "^2.0.3",
+    "poke-types": "^1.0.22",
+    "pokedex": "^1.1.0",
+    "pokedex-promise-v2": "^3.2.0",
+    "pokedex.js": "^3.3.3",
+    "pokemon": "^2.0.2",
+    "pokemon-picker": "^1.2.2",
+    "pokemon-randomizer": "^0.1.4",
+    "roulette-wheel": "^1.0.3",
+    "slot-machine": "^2.1.0"
+  }
+}
